@@ -1,6 +1,6 @@
 # Tensorflow Lite Standalone C++ build for Linux and MacOS
 
-Even before deploying your software and model onto ARM devices ([Android](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/guide/build_arm64.md), [iOS](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/guide/build_ios.md), [Rpi](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/guide/build_rpi.md)), you would defiantly test on your Linux or Macbook.
+Even before deploying your software and model onto ARM devices ([Android](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/guide/build_arm64.md), [iOS](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/guide/build_ios.md), [Rpi](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/guide/build_rpi.md)), you would defiantly test them on your Linux or Macbook.
 Its quite easy with python, but deployment is often in C++ and thats when you would need standalone build. This 
 repository tries gives demo setup. 
 
