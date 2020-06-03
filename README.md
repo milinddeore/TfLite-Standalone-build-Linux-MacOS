@@ -4,9 +4,9 @@ Even before deploying your software and model onto ARM devices ([Android](https:
 Its quite easy with python, but deployment is often in C++ and thats when you would need standalone build. This 
 repository tries gives demo setup. 
 
-Tensorflow Release : 2.1.1 
-OS : Darwin Kernel Version 17.7.0
-Bazel : 3.0.0
+- Tensorflow Release : 2.1.1 
+- OS : Darwin Kernel Version 17.7.0
+- Bazel : 3.0.0
 
 ## Clone TF
 ```
